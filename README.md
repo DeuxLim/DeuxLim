@@ -19,18 +19,5 @@ Focused on performance, clean architecture, and real-world impact.
 
 ---
 
-### ⚡ Focus
-- API Integration  
-- Workflow Automation  
-- AI Integration (LLMs)  
-
----
-
-### 📌 Projects
-- **MILE 365** — Landing Page and Admin Dashboard (Laravel + React)  
-- **Messenger Clone** — Real-time chat (WebSockets, JWT, optimistic UI)  
-
----
-
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/deux-lim-522050263/
