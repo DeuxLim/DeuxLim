@@ -2,56 +2,48 @@
 
 ### Full-Stack Web Developer (Laravel + React)
 
-I build scalable web applications, APIs, and automation systems with a focus on performance, clean architecture, and real-world impact.
+I build scalable applications, APIs, and automation systems with a focus on performance, clean architecture, and real-world impact.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Backend**
-- PHP (Laravel)
-- REST APIs
-- MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,mysql,docker,git,postman,tailwind,bootstrap&perline=6" />
+</p>
 
-**Frontend**
-- React, TypeScript, JavaScript
-- Tailwind CSS, Bootstrap
+---
 
-**Tools**
-- Docker, Git, Postman, SSH
+## 🧠 What I Do
 
-**Focus**
-- API Integration
-- Workflow Automation
-- AI Integration (LLMs)
+- Build full-stack applications (Laravel + React)
+- Design and integrate REST APIs
+- Automate workflows and system processes
+- Implement AI-powered features (LLMs)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 MILE 365 Run Club (Production App)
-- Full-stack app (React + Laravel + SQL)
-- Authentication (Sanctum), RBAC, API design
+### 🔹 MILE 365 Run Club
+- Full-stack production app (React + Laravel)
+- Auth (Sanctum), RBAC, API design
 - Admin dashboard + membership system
-- Deployed with Docker, Vercel, Render
 
-### 🔹 Messenger Clone (Real-Time App)
-- WebSockets for real-time messaging
+### 🔹 Messenger Clone
+- Real-time chat with WebSockets
 - JWT authentication
-- Optimistic UI updates
-- Pagination + lazy loading
+- Optimistic updates + pagination
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
 - LinkedIn: (your link)
 - Portfolio: (your link)
-
----
