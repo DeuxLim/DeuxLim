@@ -1,48 +1,36 @@
 # Hi, I'm Deux 👋
 
-### Full-Stack Web Developer (Laravel + React)
-
-I build scalable applications, APIs, and automation systems with a focus on performance, clean architecture, and real-world impact.
-
----
-
-## 🚀 Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%2B+React;APIs+•+Automation+•+AI" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,mysql,docker,git,postman,tailwind,bootstrap&perline=6" />
+  <!-- Light mode -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,mysql,docker,git,tailwind&perline=5&theme=light#gh-light-mode-only" />
+  <!-- Dark mode -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,mysql,docker,git,tailwind&perline=5&theme=dark#gh-dark-mode-only" />
 </p>
 
 ---
 
-## 🧠 What I Do
-
-- Build full-stack applications (Laravel + React)
-- Design and integrate REST APIs
-- Automate workflows and system processes
-- Implement AI-powered features (LLMs)
+### 🚀 About Me
+Full-Stack Developer building scalable applications, APIs, and automation systems using Laravel and React.  
+Focused on performance, clean architecture, and real-world impact.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 MILE 365 Run Club
-- Full-stack production app (React + Laravel)
-- Auth (Sanctum), RBAC, API design
-- Admin dashboard + membership system
-
-### 🔹 Messenger Clone
-- Real-time chat with WebSockets
-- JWT authentication
-- Optimistic updates + pagination
+### ⚡ Focus
+- API Integration  
+- Workflow Automation  
+- AI Integration (LLMs)  
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DeuxLim&show_icons=true)
+### 📌 Projects
+- **MILE 365** — Production full-stack app (Laravel + React)  
+- **Messenger Clone** — Real-time chat (WebSockets, JWT, optimistic UI)  
 
 ---
 
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/deux-lim-522050263/
+### 📫 Connect
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
