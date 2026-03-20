@@ -39,11 +39,10 @@ I build scalable applications, APIs, and automation systems with a focus on perf
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=DeuxLim&show_icons=true)
 
 ---
 
 ## 📫 Connect
 
-- LinkedIn: (your link)
-- Portfolio: (your link)
+- LinkedIn: https://www.linkedin.com/in/deux-lim-522050263/
