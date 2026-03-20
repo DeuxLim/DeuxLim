@@ -7,8 +7,6 @@
 <p align="center">
   <!-- Light mode -->
   <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,mysql,docker,git,tailwind&perline=5&theme=light#gh-light-mode-only" />
-  <!-- Dark mode -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,mysql,docker,git,tailwind&perline=5&theme=dark#gh-dark-mode-only" />
 </p>
 
 ---
