@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Deux 👋
 
-<!--
-**DeuxLim/DeuxLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer (Laravel + React)
 
-Here are some ideas to get you started:
+I build scalable web applications, APIs, and automation systems with a focus on performance, clean architecture, and real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Backend**
+- PHP (Laravel)
+- REST APIs
+- MySQL
+
+**Frontend**
+- React, TypeScript, JavaScript
+- Tailwind CSS, Bootstrap
+
+**Tools**
+- Docker, Git, Postman, SSH
+
+**Focus**
+- API Integration
+- Workflow Automation
+- AI Integration (LLMs)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 MILE 365 Run Club (Production App)
+- Full-stack app (React + Laravel + SQL)
+- Authentication (Sanctum), RBAC, API design
+- Admin dashboard + membership system
+- Deployed with Docker, Vercel, Render
+
+### 🔹 Messenger Clone (Real-Time App)
+- WebSockets for real-time messaging
+- JWT authentication
+- Optimistic UI updates
+- Pagination + lazy loading
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (your link)
+- Portfolio: (your link)
+
+---
