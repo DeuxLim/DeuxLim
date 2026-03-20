@@ -27,10 +27,10 @@ Focused on performance, clean architecture, and real-world impact.
 ---
 
 ### 📌 Projects
-- **MILE 365** — Production full-stack app (Laravel + React)  
+- **MILE 365** — Landing Page and Admin Dashboard (Laravel + React)  
 - **Messenger Clone** — Real-time chat (WebSockets, JWT, optimistic UI)  
 
 ---
 
 ### 📫 Connect
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/deux-lim-522050263/
